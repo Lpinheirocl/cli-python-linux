@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "cli-linux"
+version = "0.1.0"
+description = "cli-linux"
+authors = ["Lucas Pinheiro"]
+readme = "README.md"
+packages = [{include = "cli_linux"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
