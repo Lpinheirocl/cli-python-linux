@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/lucas/projetos/cli-python-linux/.venv/bin/python",
+    "remote.WSL.fileWatcher.polling": true
+}
